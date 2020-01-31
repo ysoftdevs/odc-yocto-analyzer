@@ -1,0 +1,12 @@
+Package: augeas-lenses
+Version: 1.4.0-r0
+Description: Augeas configuration API
+ Augeas configuration API.
+Section: base
+Priority: optional
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+License: LGPLv2.1+
+Architecture: cortexa9t2hf-vfp-neon
+OE: augeas
+Homepage: http://augeas.net/
+Source: http://download.augeas.net/augeas-1.4.0.tar.gz file://add-missing-argz-conditional.patch file://sepbuildfix.patch file://0001-Unset-need_charset_alias-when-building-for-musl.patch

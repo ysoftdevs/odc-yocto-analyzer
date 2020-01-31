@@ -1,0 +1,3 @@
+com.ysoft.security.odc.yocto.YoctoAnalyzer
+com.ysoft.security.odc.yocto.YoctoPatchedVulnerabilitySuppressionAnalyzer
+com.ysoft.security.odc.yocto.YoctoFilenameVersionSuppressionAnalyzer
