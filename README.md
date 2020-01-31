@@ -1,4 +1,4 @@
-A plugin for OWASP Dependency Check that analyzes IPK files from YOCTO.
+# Plugin for OWASP Dependency Check that analyzes IPK files from YOCTO
 
 Useful for finding known vulnerabilities and licenses.
 
